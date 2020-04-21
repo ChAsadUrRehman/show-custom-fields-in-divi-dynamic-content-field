@@ -1,4 +1,7 @@
 ## Show custom fields in divi dynamic content field option
+
+![](https://raw.githubusercontent.com/ChAsadUrRehman/show-custom-fields-in-divi-dynamic-content-field/master/divi%20custom%20fields%20in%20dynamic%20fields%20options.PNG)
+
 By default Divi allows only few selected fields and custom fields created using ACF to show in dynamic content options. you can make any custom field working with Divi Dynamic cntent option by just adding few lines in dynamic-content.php file
 
 Steps:
